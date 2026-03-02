@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+  background-color: blanchedalmond;
+}
+
+.Card {
+  background-color: white;
+  padding: 25px 25px 50px 25px;
+  border-radius: 10%;
+}
+
+.Card a {
+  background-color: red;
+  padding: 10px;
+  border-radius: 10%;
+}
+
+.Card img {
+  max-height: 300px;
+  border-radius: 10%;
+}
