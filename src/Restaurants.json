@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Flying Chicken & Padak",
+        "type": "Korean",
+        "image": "/images/padak.png",
+        "link": "https://www.flyingchickenpadak.com"
+    },
+    {
+        "name": "Bunker21",
+        "type": "Korean",
+        "image": "/images/bunker21.png",
+        "link": "https://www.bunker21artesia.com"
+    },
+    {
+        "name": "TOUS les JOURS",
+        "type": "French-Asian Bakery",
+        "image": "/images/tous.png",
+        "link": "https://tljus.com"
+    }
+]

@@ -4,9 +4,9 @@ const Card = ({image, name, type, link}) => {
   return (
     <div className='Card'>
         <img src={image} />
-        <h5>{name}</h5>
-        <h6>{type}</h6>
-        <a href={link}>View Menu</a>
+        <h3>{name}</h3>
+        <h5>{type}</h5>
+        <a href={link} target="_blank">View Menu</a>
     </div>
   );
 };

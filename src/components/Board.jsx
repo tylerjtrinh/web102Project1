@@ -1,11 +1,13 @@
 import React from 'react';
+import Restaurants from '../Restaurants.json'
 import Card from './Card'
 
-import padakImage from '../assets/padak.png';
 const Board = () => {
   return (
     <div className='Board'>
-        <Card image={padakImage} name='Flying Chicken & Padak' type='Korean' link='https://www.flyingchickenpadak.com'/>
+        {Restaurants.map((restaurant, index) => (
+            <Card key={index} image={restaurant.image} name={restaurant.name} type={restaurant.type} link={restaurant.link} />
+        ))}
     </div>
   );
 };
