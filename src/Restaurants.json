@@ -16,5 +16,47 @@
         "type": "French-Asian Bakery",
         "image": "/images/tous.png",
         "link": "https://tljus.com"
+    },
+    {
+        "name": "North Italia",
+        "type": "Italian",
+        "image": "/images/italia.jpg",
+        "link": "https://www.northitalia.com/locations/cerritos-ca/"
+    },
+    {
+        "name": "Big Bros Hawaiian",
+        "type": "Hawaiian Grill",
+        "image": "/images/bigbrohawaiian.png",
+        "link": "https://bigbroshawaiian.com"
+    },
+    {
+        "name": "Katsumura",
+        "type": "Japanese",
+        "image": "/images/katsumura.jpg",
+        "link": "https://www.katsumuraca.com"
+    },
+    {
+        "name": "Uroko Poke",
+        "type": "Hawaiian Poke",
+        "image": "/images/uroko.jpg",
+        "link": "https://www.urokopoke.com"
+    },
+    {
+        "name": "Silverlake Ramen",
+        "type": "Japanese",
+        "image": "/images/silverlake.jpg",
+        "link": "https://silverlakeramen.com"
+    },
+    {
+        "name": "Aikan Sushi",
+        "type": "Japanese",
+        "image": "/images/Aikan.png",
+        "link": "https://www.aikanpayce.com"
+    },
+    {
+        "name": "Mochinut",
+        "type": "Japanese American",
+        "image": "/images/mochinut.jpg",
+        "link": "https://www.mochinut.com"
     }
 ]
